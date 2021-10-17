@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pr24</string>
+    <string name="textout">Ни одна из кнопок не нажата</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+</resources>
